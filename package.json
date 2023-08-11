@@ -1,0 +1,42 @@
+{
+	"name": "com.slax.pathfinding",
+	"version": "0.1.0",
+	"displayName": "Pathfinding",
+	"description": "A* Pathfinding implementation for Unity",
+	"unity": "2021.3",
+	"keywords": [
+		"Pathfinding",
+		"Grid",
+		"Slax"
+	],
+	"author": {
+		"url": "https://github.com/FelixBole",
+		"name": "Felix Bole",
+		"email": "felix.slax@gmail.com"
+	},
+	"dependencies": {},
+	"files": [
+		"Documentation/**",
+		"Documentation.meta",
+		"Editor/**",
+		"Editor.meta",
+		"Runtime/**",
+		"Runtime.meta",
+		"Samples/**",
+		"Samples.meta",
+		"CHANGELOG.md",
+		"CHANGELOG..md.meta",
+		"LICENSE.md",
+		"LICENSE.md.meta",
+		"README.md",
+		"README.md.meta",
+		"package.json.meta"
+	],
+	"samples": [
+		{
+			"displayName": "Demo assets",
+			"description": "PLACEHOLDER DESCRIPTION",
+			"path": "Samples/DemoContent"
+		}
+	]
+}
